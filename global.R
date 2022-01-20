@@ -4,3 +4,4 @@
 # Load packages
 
 library(tidyverse)
+library(flexdashboard)
