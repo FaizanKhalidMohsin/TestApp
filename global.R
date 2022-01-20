@@ -5,3 +5,5 @@
 
 library(tidyverse)
 library(flexdashboard)
+library(rpart)
+library(pak)
